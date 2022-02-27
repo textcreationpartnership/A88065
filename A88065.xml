@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Short remains of a dead gentlewoman and wife: published by her surviving husband, for the continuance and advancement of her memory, and the good example of those to whose hands it may come</title>
+            <author>L., Elizabeth, d. 1690?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88065</idno>
+            <idno type="STC">Wing L17A</idno>
+            <idno type="STC">ESTC R231026</idno>
+            <idno type="EEBO-CITATION">99896640</idno>
+            <idno type="PROQUEST">99896640</idno>
+            <idno type="VID">134687</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 134687)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2430:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Short remains of a dead gentlewoman and wife: published by her surviving husband, for the continuance and advancement of her memory, and the good example of those to whose hands it may come</title>
+                  <author>L., Elizabeth, d. 1690?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Page 4 has caption title: The following elogy was composed, and bestowed upon the memory of his dead wife, by her surviving husband.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:134687:1"/>
+            <head>Short Remains of a Dead Gentlewoman and Wife: Pub<g ref="char:EOLhyphen"/>liſhed by her Surviving Husband, for the Continuance and Advancement of her Memory, and the good Ex<g ref="char:EOLhyphen"/>ample of thoſe to whoſe Hands it may come.</head>
+            <div type="letter">
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>My Dear,</salute>
+                     </opener>
+                     <p>IT has Pleaſed Almighty God to call me to the Eſtate of ſuffering great Pain and Sickneſs, thereby to wean my Affections from the things of the World. I do receive his Chaſtiſement with all Humility and Thankfulneſs, as coming from a Merciful and Gracious Father, and do acknowledge he deals with me in great Kindneſs; and that hitherto he has laid no more upon me than he has enabled me to bear. I acknowledge my Sins and Offences are ſo great, that if he ſhould be extream with me, and mark what is amiſs, and Puniſh me accordingly, he might juſtly deſtroy me, and caſt my Soul into eternal Torments. But he is a Merci<g ref="char:EOLhyphen"/>ful God, ſlow to Anger, and of great Pity. And I have a full truſt and confidence in him, and in the Merits and Interceſſion of my Bleſſed Saviour; and that he came in<g ref="char:EOLhyphen"/>to the World to ſave Sinners: That he died for my Sins and roſe again for my Juſtifi<g ref="char:EOLhyphen"/>cation. That there is no Name under Heaven by which I can be ſaved but by my Bleſſed Saviour <hi>JES<g ref="char:V">Ʋ</g>S.</hi> I love God with all my Heart, with all my Mind, with all my Soul, with all my Strength. I put my whole Truſt and Confidence in him, and do freely and willingly reſign my ſelf to his Pleaſure to do with me as he pleaſes and do humbly and heartily beg, that he will not leave me nor forſake me; but tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> when I am weakeſt he will be ſtrongeſt, and will inable me to overcome the Tempta<g ref="char:EOLunhyphen"/>tions of the <hi>World,</hi> the <hi>Fleſh,</hi> and the <hi>Devil:</hi> And that I may prove a Conqueror thr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <hi>Chriſt</hi> that Strengthens me. That I may Fight a good Fight, keep a good Faith, and finiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, my Courſe with Joy, that I may reſt in <hi>JES<g ref="char:V">Ʋ</g>S;</hi> and have a Houſe not made wit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> hands eternal in the Heavens; where all Tears ſhall be wiped from mine Eyes; whe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> there ſhall be no more Sorrow, nor Death, nor Crying, nor Pain; but ſhall be in pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>fect Happineſs without end, and ſhall follow the Lamb whereſoever he goeth; an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> this I humbly and earneſtly beg for my dear and ever Bleſſed Saviour's ſake. I <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> freely and willingly reſign my Soul to God who gave it, and my Body to the Earth; and do deſire I may be Buried in <hi>Rawden</hi> Chappel near the place Mr. <hi>L</hi>—. deſigns for his own Burying-Place. I am willing to part with Mr. <hi>L</hi>—. and with all the World; and I heartily pray to Almighty God to forgive me all my Sins; and I do with all my Heart forgive all the World whatever they have done againſt me. I deſire Mr. <hi>L</hi>—. that he will forgive me in whatever I have at any time offended him in. I confeſs I have been too apt to ſay ſuch things as he hath taken ill, and has imputed them to ill na<g ref="char:EOLhyphen"/>ture. I am ſorry I have at any time done or ſaid any thing that might give him di<g ref="char:EOLhyphen"/>ſturbance. I beg God will forgive me, and that he will do ſo too. But I think I ought to do my ſelf that Juſtice as to affirm, I have been Faithful to Mr. <hi>L</hi>—. both to his Bed and Fortune, in what he has truſted into my Hands. I hope I have a clear Conſcience to thoſe things, that I ſhall not have any thing to anſwer upon thoſe ac<g ref="char:EOLhyphen"/>counts. There has been many Differences betwixt us, and Mr. <hi>L</hi>—. has both ſaid and done ſeveral ſevere and hard things to me, which have ſtuck cloſe to me, and I know he has thought me a Fool that I could not tell what to ſay to him; but my computa<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:134687:2"/>
+was much otherways; for it was very ſeldom but I could have anſwered with as much Sharpneſs as he: but I knew he would not bear it; and if I had done ſo, I could not have lived with him: Therefore I made it my daily requeſt to Almighty God, that he would enable me to govern my Tongue, that I might always ſet ſuch a watch over that, as that it ſhould be no occaſion of difference betwixt my Husband and me. And I humbly thank him, I have been able to do it, I believe as much as moſt People; and I hope when I am gone to my long home, Mr. <hi>L</hi>—. will be ſenſible that what I ſay is true. I heartily pray to God to bleſs him, and that when I am gone he may live happy, and enjoy the Bleſſing of Almighty God in as great a meaſure as he ſhall ſee good for him, and that we may have a Joyful Meeting at the Reſurrection. And I humbly beg of Almighty God, that he will forgive us both all our Offences againſt him, and againſt one another. And I make it my Requeſt to Mr. <hi>L</hi>—. that he will pleaſe to give to my Siſter <hi>Conſtable</hi> a Suit of Damask Linnen which was my Mother's, and was bought againſt my Chriſtening: It lies in the bottom of the great Trunk in my Cloſet; at one end there is a long Table-cloth, Two leſs Table-cloths, and Two Dozen of Napkins. I alſo deſire ſhe may have a little Scarlet Silk Purſe, and the Gold that is in it, only one Broad Piece taken out of it for a Ring for my Brother <hi>Yar<g ref="char:EOLhyphen"/>brough.</hi> The Purſe is in a private Drawer in the Table in my Cloſet at the Stairs-head. I deſire my Maids may have every one of them ſomething of my Clothes, and <hi>Joſeph</hi> and <hi>Tim,</hi> may have each of them Twenty Shillings a piece. I deſire there may be a Sermon at my Funeral, which I would have one I had from Mr. <hi>Wood:</hi> It may be found in a thin Red Book which lies on the top of other Books, and in it is a little Paper Book of Mr. <hi>Wood</hi>'s Writing. The Text is <hi>Matth.</hi> 24.44. <hi>Therefore be ye alſo ready, for in ſuch an hour as you think not the Son of Man cometh.</hi> I deſire Mr. <hi>Wood</hi> may have Two Gui<g ref="char:EOLhyphen"/>nea's from me beſides what Mr. <hi>L</hi>—. will give him. This is what I deſire may be done if Mr. <hi>L</hi>—. be willing: But I know I have no power to diſpoſe of any thing without his Conſent: and if he be not willing, I ſhould be ſorry to diſpleaſe him in the laſt Act of my Life: and if he be not willing theſe things ſhould be as I deſire, I am contented all ſhould be as he pleaſes. This is all I ſhall ſay, but as long as I live <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> ſhall continue</p>
+                     <closer>
+                        <signed>
+                           <hi>Your Dutiful and Affectionate Wife,</hi> ELIZABETH L—.</signed>
+                     </closer>
+                     <postscript>
+                        <p>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>he foregoing Letter was Superſcribed by the dead Perſon's hand in theſe Words:
+<q>This for Mr. <hi>L</hi>—. which I deſire may be given to him after my Death, and before I am buried.</q> 
+                           <hi>And this direction was fulfilled and performed accordingly.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="confession">
+               <head>Here follows a Confeſſion of her Sins found after her Death, and written in and by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er own Hand.</head>
+               <head type="sub">An Humble Confeſſion to Almighty God of the Grievous Sins I am too guilty of.</head>
+               <p>
+                  <hi>O</hi> Lord, I confeſs I offend and Sin in preferring and loving many Worldly Vanities and Pleaſures before the Service of God.</p>
+               <p>I confeſs I ſometimes neglect to read the Holy Scriptures, and when I do read them, I do not mark them as I ought, nor do I fear God ſo much as to keep from Offending him.</p>
+               <p>I do not call my ſelf to a daily account for my Sins, nor am I ſo careful as I ought to be in examining what my eſtate is towards God, nor do I repent of my Sins, and forſake them as I ſhould do.</p>
+               <p>I confeſs I am often diſcontented with my own eſtate and condition, and too much trou<g ref="char:EOLhyphen"/>bled when any Worldly things croſs me.</p>
+               <p>
+                  <pb n="3" facs="tcp:134687:2"/>I am too forward to credit things which I hear to the diſadvantage of other People, and to relate them again, tho' I do not know the truth of them; and my Thoughts and Phan<g ref="char:EOLhyphen"/>taſies are often ſuch as they ought not to be.</p>
+               <p>I am not ſo careful of my Neighbours Credit as I ſhould be; but do ſometime talk more of them than I ſhould do: I have not ſo ſincere a Charity, nor do I forgive my Enemies as I deſire God would forgive me; but am too apt to remember Injuries, and am not ſorry enough when any misfortunes come upon thoſe that have done me unkindneſs or diſpleaſure.</p>
+               <p>I confeſs I am ſubject to be angry at a ſmall occaſion, and Impatient if any be angry with me.</p>
+               <p>My Affection is too much ſet upon my Husband, and I am too deſirous to have his eſteem, and I cannot bear his <g ref="char:V">Ʋ</g>nkindneſs with that Patience which I ought: I am too apt to provoke him to Anger and <g ref="char:V">Ʋ</g>nkindneſs, by ſay<g ref="char:EOLhyphen"/>ing ill-natured and croſs things: I am too Suſpicious and Miſtruſtful of him, and too Fretful and Grieving at any thing that makes differences betwixt us: I am more afraid of loſing his Favour and Kindneſs, than I am of ſinning againſt God.</p>
+               <p>I confeſs I am too ſlack in my Devotion; that when I ſhould be the moſt Intent in God's ſervice, then the Devil is the buſieſt, and puts vain and wandring Thoughts into my Head: I am not ſo thankful to God as I ſhould be, for all the Benefits and Bleſſings he daily and hourly beſtows upon me: All which I am hear<g ref="char:EOLhyphen"/>tily ſorry for, and do beg of thee, Good Lord, to deliver me from all theſe Sins.</p>
+               <p>It is my full purpoſe to do my utmoſt en<g ref="char:EOLhyphen"/>deavour to forſake all theſe Sins; and I humbly and earneſtly beg of God for his Grace and Aſſiſtance: and if he will pleaſe to grant me that, I do not fear but I ſhall be a Con<g ref="char:EOLhyphen"/>queror.</p>
+            </div>
+            <div type="dream">
+               <head>Next follows the Purport of a Dream, which was found ſet down by Her own Hand, amongſt the laſt Leaves of one of Her Ma<g ref="char:EOLhyphen"/>nuſcript Books; expreſs'd diſtinctly in the following Words.</head>
+               <p>THE 24 <hi>November</hi> 1689. In the Night, towards the Morning of the 25th Day, I dreamed that I was ſaying my Prayers, at Night by Candle-light in my Cloſet, and ſomething touched me upon the forepart of my Head like a Hand; at which I was frighted, and looked up, and ſaw a bright ſhining Thing with glittering Wings, but could not ſee any Face: It hung in the Air and touched nothing. It ſeemed to be a<g ref="char:EOLhyphen"/>bout the bigneſs of an ordinary Hawk; It ſpoke to me and ſaid, Thy Prayers are heard, and thy Afflictions are ſanctified to thee: If thou doſt continue to do thy Duty unto the end, God will not forget his Promiſes; but thou ſhalt go to the Grave in Peace, and with a reſigned and quiet Mind, and ſhall receive a Crown of Righteouſneſs. Then it ſtay'd a while. I was very much frighted, and would fain have ſpoke but could not. Then it ſaid be not frighted, but make an end of thy Prayers, and with ſtri<g ref="char:EOLhyphen"/>ving to ſpeak I awoke. I thought it was in conſtant Motion with the Wings, and ſpoke ſlowly, and not very high, but very plain to be underſtood.</p>
+            </div>
+         </div>
+         <div type="elegy">
+            <pb n="4" facs="tcp:134687:3"/>
+            <head>The following ELOGY was Compoſed, and beſtowed upon the Memory of his dead Wife, by her ſurviving Husband.</head>
+            <lg>
+               <l>UNder this Stone that Head lies low,</l>
+               <l>Which living made ſo fair a ſhow,</l>
+               <l>As drave Beholders to reflect</l>
+               <l>Thereon, with Kindneſs and Reſpect.</l>
+               <l>Her Favour liv'd beyond Her Breath,</l>
+               <l>And made her lovely after Death.</l>
+               <l>Her Bones and Duſt lye here inſhrin'd:</l>
+               <l>But the clear Luſter of her Mind,</l>
+               <l>Remains Ingraven deep and high,</l>
+               <l>In thoſe that love her Memory.</l>
+               <l>Whilſt here She liv'd, She bleſt the Place</l>
+               <l>With ſuch Effects of Good and Grace,</l>
+               <l>As in no Time will be forgot,</l>
+               <l>But told to ſuch as ſaw them not.</l>
+               <l>No wonder then, that more than one</l>
+               <l>Refuſe to tread upon this Stone,</l>
+               <l>Where ſhrined lies ſuch Wit and Senſe,</l>
+               <l>Such Goodneſs, Truth, and Innocence,</l>
+               <l>As may be Samples for the beſt,</l>
+               <l>And dignifie her Place of Reſt.</l>
+               <l>Which whoſo ſees will ſigh and ſay,</l>
+               <l>Like as the Luſter of the Day,</l>
+               <l>Hath ſet in Clouds of a dark Night,</l>
+               <l>The World's depriv'd of Her and Light.</l>
+            </lg>
+            <lg>
+               <l>HERE may She reſt, reſerv'd in Store,</l>
+               <l>Till Heavens and Times ſhall be no more;</l>
+               <l>Then ſhall this heavy Stone remove,</l>
+               <l>And let Her paſs to Clouds above;</l>
+               <l>Where thoſe, like Her, mett in accord</l>
+               <l>Remain for ever with the Lord.</l>
+               <l>From Words like theſe, comforts are given</l>
+               <l>By a Sound Meſſenger of Heaven;</l>
+               <l>Who bids with Moderation weep,</l>
+               <l>For our dead Friends late fall'n aſleep:</l>
+               <l>Becauſe he with Aſſurance ſays,</l>
+               <l>God will dead Perſon wake and raiſe.</l>
+               <l>Thus we confide God's Call to have,</l>
+               <l>From our dead Slumbers in the Grave;</l>
+               <l>And being rais'd, ſhall mount on high</l>
+               <l>To Clouds, and Regions of the Sky:</l>
+               <l>And with freſh Bodies, light and fair,</l>
+               <l>Meet our Redeemer in the Air.</l>
+            </lg>
+            <lg>
+               <l>TRanſports of Joy will then ſurprize</l>
+               <l>Thoſe Perſons, who with craving Eyes</l>
+               <l>Behold the Luſter of that Light,</l>
+               <l>Then offer'd to the Senſe and Sight.</l>
+               <l>A Prince once dead by great Oppreſſion,</l>
+               <l>Comes then to take the full Poſſeſſion</l>
+               <l>Of all the Powers of Heav'n and Earth:</l>
+               <l>Due to the Merits of his Birth.</l>
+               <l>The Trumpet's Sound ſhall Warning give,</l>
+               <l>To all the dead and all that live,</l>
+               <l>Of ſuch Approaches, as this train</l>
+               <l>Make to the Globe of Earth and Main.</l>
+               <l>Then ſhall tranſlated Bodies riſe</l>
+               <l>From Earth, to meet them in the Skies.</l>
+               <l>Coming to Thrones from earthly Beds,</l>
+               <l>They with meek Boldneſs raiſe their Heads.</l>
+               <l>To look upon the Lord of Bliſs,</l>
+               <l>Whom they ſhall ſee then as he is.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A</hi> Prince of Peace to thoſe that ſtand,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>pon the bent of his Right Hand:</l>
+               <l>But terrible, ſharp, and ſevere,</l>
+               <l>To thoſe that on the Left appear.</l>
+               <l>He calls the firſt with Words of Love,</l>
+               <l>And Power to make Mountaines move.</l>
+               <l>Come near, ye bleſſed of my Father,</l>
+               <l>Who fought to Death, and choſe it rather</l>
+               <l>Than fail in Duty whilſt on Earth,</l>
+               <l>Ye've now full Shares of the new Birth:</l>
+               <l>Come forth and take the Crowns of Glory,</l>
+               <l>In earlieſt Times provided for you.</l>
+               <l>Aſſume your Thrones, not come by chance,</l>
+               <l>But given as firm Inheritance,</l>
+               <l>Which in no Time ſhall find decay,</l>
+               <l>But laſt as long and fair as day.</l>
+               <l>Riſing from endleſs Springs of Light,</l>
+               <l>God's holy Throne and boundleſs might</l>
+               <l>Your teeming Joys ſhall ſpring for<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </l>
+               <l>And Care and Grief approach you n<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>You ſhall be led o're ſpicy Mountains,</l>
+               <l>To Shady Groves and Springing Fountains;</l>
+               <l>Where ſafe you may paſt wo's deſpiſe,</l>
+               <l>And have all Tears wip'd from your Eyes.</l>
+               <l>And by the Force of this Decree,</l>
+               <l>You Kings and Prieſts to God ſhall be:</l>
+               <l>And have large Shares of heavenly Love,</l>
+               <l>Which in true Value ſtand above</l>
+               <l>All things that Heaven and Earth can ſhow,</l>
+               <l>Or that Man's Wit can frame or know.</l>
+            </lg>
+            <lg>
+               <l>HOW can Men bear the ſtrong Reflection,</l>
+               <l>Of Joys thus grown to their Perfection.</l>
+               <l>More like in Swoons fainting to dye</l>
+               <l>And periſh in an Extaſy.</l>
+               <l>But raiſed Folk can die no more,</l>
+               <l>Nor be or'ewhelm'd with this great Store.</l>
+               <l>They'l have the Power to live for ever</l>
+               <l>Amidſt theſe Joys, that fail them never.</l>
+               <l>But till the Time that Chriſt ſhall come,</l>
+               <l>To judge the World and paſs the Doom,</l>
+               <l>Expect we may (ſince die we muſt)</l>
+               <l>A reſt together in the Duſt.</l>
+            </lg>
+            <bibl>
+               <hi>Job 17.16.</hi>
+            </bibl>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
